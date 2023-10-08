@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875673694169",
+    "project_id": "madpro-c81de",
+    "storage_bucket": "madpro-c81de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875673694169:android:c199aed304749755c2f3c8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAne43sk_MrCBfiu5ufDsEoRVQ6TnKgTso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
